@@ -2,3 +2,5 @@ a.data
 b.data
 empty.txt
 moons/
+*.dat
+!c.dat
