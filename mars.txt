@@ -1,4 +1,7 @@
 cold and dry and red
 Double moons of mars
 dry atmosphere
-this line added
+
+resolved conflict
+
+
